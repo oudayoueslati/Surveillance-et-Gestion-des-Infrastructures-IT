@@ -1,0 +1,1382 @@
+[
+    {
+        "PCName":  "D951059",
+        "IP":  "10.3.168.54",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240813133337.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "40:A8:F0:67:1C:65",
+                           "50:3E:AA:0B:63:09"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95105901",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "TOSHIBA DT01ACA050",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951166",
+        "IP":  "10.3.168.14",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811223056.500000+060",
+        "Model":  "HP EliteDesk 800 G2 SFF",
+        "BIOSVersion":  "N01 Ver. 02.56",
+        "MACAddress":  [
+                           "C8:D3:FF:B3:7B:F3",
+                           "10:62:EB:33:98:A7"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95116601",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "WDC WD5000AZLX-60K2TA0",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+
+                               }
+    },
+    {
+        "PCName":  "D951107",
+        "IP":  "10.3.168.10",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811221352.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.70",
+        "MACAddress":  [
+                           "40:A8:F0:67:1C:72",
+                           "94:05:B6:5C:B1:56"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95110701",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "TOSHIBA DT01ACA050",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "DMS04515",
+        "IP":  "10.3.168.34",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812064733.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "40:A8:F0:5B:03:95",
+                           "EC:22:80:EB:81:76"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0451501",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "ST1000DM010-2EP102",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951178",
+        "IP":  "10.3.168.15",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811221640.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "A0:48:1C:9A:4F:AA",
+                           "10:62:EB:33:98:A3"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95117803",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "DMS04577",
+        "IP":  "10.3.168.37",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812090553.829982+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  "A0:48:1C:95:75:3F",
+        "WorkstationUserName":  "MYCORP\\LADMS0457701",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D976090",
+        "IP":  "10.3.168.17",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812092035.500000+060",
+        "Model":  "HP Elite SFF 800 G9 Desktop PC",
+        "BIOSVersion":  "U01 Ver. 02.11.00",
+        "MACAddress":  [
+                           "E0:73:E7:BD:5F:A3",
+                           "14:EB:B6:E0:30:21"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD97609001",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "16 GB",
+        "Disks":  {
+                      "DiskModel":  "SK hynix PC801 HFS256GEJ9X101N",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\CPUZ_0",
+                                   "CurrentTemperature":  -269.34999999999997
+                               }
+    },
+    {
+        "PCName":  "D951598",
+        "IP":  "10.3.32.120",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812041556.500000+060",
+        "Model":  "HP EliteDesk 800 G5 SFF",
+        "BIOSVersion":  "R01 Ver. 02.03.02",
+        "MACAddress":  [
+                           "84:A9:3E:8E:D1:B9",
+                           "50:3E:AA:0B:EE:37"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95159801",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "KXG60ZNV256G KIOXIA",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\HEPZ_0",
+                                   "CurrentTemperature":  30.050000000000011
+                               }
+    },
+    {
+        "PCName":  "D951602",
+        "IP":  "10.3.33.134",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812090324.500000+060",
+        "Model":  "HP EliteDesk 800 G5 SFF",
+        "BIOSVersion":  "R01 Ver. 02.03.02",
+        "MACAddress":  [
+                           "84:A9:3E:8E:D3:6C",
+                           "18:0F:76:F9:E6:F2"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95160202",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "KXG60ZNV256G KIOXIA",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\HEPZ_0",
+                                   "CurrentTemperature":  30.050000000000011
+                               }
+    },
+    {
+        "PCName":  "D951216",
+        "IP":  "10.3.33.112",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812090303.500000+060",
+        "Model":  "HP EliteDesk 800 G2 SFF",
+        "BIOSVersion":  "N01 Ver. 02.56",
+        "MACAddress":  [
+                           "C8:D3:FF:B2:21:C7",
+                           "10:62:EB:33:98:9D"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95121601",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "WDC WD5000AZLX-60K2TA0",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+
+                               }
+    },
+    {
+        "PCName":  "D951023",
+        "IP":  "10.3.168.53",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812062910.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.21",
+        "MACAddress":  [
+                           "94:05:B6:5C:B1:71",
+                           "A0:48:1C:7D:9C:EC"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95102301",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D976097",
+        "IP":  "10.3.168.59",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812004659.500000+060",
+        "Model":  "HP EliteDesk 800 G6 Small Form Factor PC",
+        "BIOSVersion":  "S01 Ver. 02.15.01",
+        "MACAddress":  [
+                           "C0:18:03:B3:5F:A8",
+                           "EC:08:6B:04:54:84"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD97609701",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "MTFDHBA256TDV-1AY1AABHA",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\TZ00_0",
+                                   "CurrentTemperature":  27.850000000000023
+                               }
+    },
+    {
+        "PCName":  "D951599",
+        "IP":  "10.3.32.79",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812070344.500000+060",
+        "Model":  "HP EliteDesk 800 G5 SFF",
+        "BIOSVersion":  "R01 Ver. 02.03.02",
+        "MACAddress":  [
+                           "84:A9:3E:8E:CF:F6",
+                           "50:3E:AA:0B:6B:D5"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95159901",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "KXG60ZNV256G KIOXIA",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\HEPZ_0",
+                                   "CurrentTemperature":  30.050000000000011
+                               }
+    },
+    {
+        "PCName":  "D951601",
+        "IP":  "10.3.32.103",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811223143.500000+060",
+        "Model":  "HP EliteDesk 800 G5 SFF",
+        "BIOSVersion":  "R01 Ver. 02.03.02",
+        "MACAddress":  [
+                           "84:A9:3E:8E:D1:9A",
+                           "10:62:EB:33:98:9C"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95160101",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "KXG60ZNV256G KIOXIA",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\HEPZ_0",
+                                   "CurrentTemperature":  30.050000000000011
+                               }
+    },
+    {
+        "PCName":  "D951588",
+        "IP":  "10.3.168.26",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811222536.500000+060",
+        "Model":  "HP EliteDesk 800 G5 SFF",
+        "BIOSVersion":  "R01 Ver. 02.03.02",
+        "MACAddress":  [
+                           "50:3E:AA:0C:39:B3",
+                           "84:A9:3E:8E:D1:B8"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95158801",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "KXG60ZNV256G KIOXIA",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\HEPZ_0",
+                                   "CurrentTemperature":  30.050000000000011
+                               }
+    },
+    {
+        "PCName":  "D951600",
+        "IP":  "10.3.33.42",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811221816.500000+060",
+        "Model":  "HP EliteDesk 800 G5 SFF",
+        "BIOSVersion":  "R01 Ver. 02.03.02",
+        "MACAddress":  [
+                           "84:A9:3E:8E:D1:7B",
+                           "50:3E:AA:0B:62:ED"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95160001",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "KXG60ZNV256G KIOXIA",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\HEPZ_0",
+                                   "CurrentTemperature":  30.050000000000011
+                               }
+    },
+    {
+        "PCName":  "D976092",
+        "IP":  "10.3.168.63",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811231334.500000+060",
+        "Model":  "HP Elite SFF 800 G9 Desktop PC",
+        "BIOSVersion":  "U01 Ver. 02.11.00",
+        "MACAddress":  [
+                           "E0:73:E7:BC:30:AD",
+                           "EC:08:6B:03:D2:8F"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD97609201",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "16 GB",
+        "Disks":  {
+                      "DiskModel":  "SK hynix PC801 HFS256GEJ9X101N",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\CPUZ_0",
+                                   "CurrentTemperature":  -269.25
+                               }
+    },
+    {
+        "PCName":  "DMS04629",
+        "IP":  "10.3.168.22",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240810120755.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "A0:48:1C:9A:51:0A",
+                           "EC:22:80:EB:81:62"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0462901",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "DMS04584",
+        "IP":  "10.3.168.16",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811224637.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "A0:48:1C:9C:86:45",
+                           "18:0F:76:F9:E6:D9"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0458401",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951596",
+        "IP":  "10.3.168.31",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811221549.500000+060",
+        "Model":  "HP EliteDesk 800 G5 SFF",
+        "BIOSVersion":  "R01 Ver. 02.04.02",
+        "MACAddress":  [
+                           "84:A9:3E:8B:F6:90",
+                           "14:EB:B6:E0:30:27"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95159601",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "SAMSUNG MZVLB256HAHQ-000H1",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\HEPZ_0",
+                                   "CurrentTemperature":  30.050000000000011
+                               }
+    },
+    {
+        "PCName":  "DMS04633",
+        "IP":  "10.3.168.28",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812060205.244164+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "A0:48:1C:9C:86:7B",
+                           "50:3E:AA:0B:A2:36"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0463301",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D976091",
+        "IP":  "10.3.168.64",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811223421.500000+060",
+        "Model":  "HP Elite SFF 800 G9 Desktop PC",
+        "BIOSVersion":  "U01 Ver. 02.11.00",
+        "MACAddress":  [
+                           "E0:73:E7:BD:61:5C",
+                           "EC:08:6B:03:7D:4B"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD97609101",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "16 GB",
+        "Disks":  {
+                      "DiskModel":  "SK hynix PC801 HFS256GEJ9X101N",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\CPUZ_0",
+                                   "CurrentTemperature":  -269.15
+                               }
+    },
+    {
+        "PCName":  "DMS04702",
+        "IP":  "10.3.168.19",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812063920.449976+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.21",
+        "MACAddress":  [
+                           "A0:48:1C:97:64:82",
+                           "C4:12:F5:33:E8:1C"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0470201",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951218",
+        "IP":  "10.3.168.51",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811222643.500000+060",
+        "Model":  "HP EliteDesk 800 G2 SFF",
+        "BIOSVersion":  "N01 Ver. 02.56",
+        "MACAddress":  [
+                           "C8:D3:FF:B5:AE:B2",
+                           "10:62:EB:33:98:EF"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95121801",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "WDC WD5000AZLX-60K2TA0",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+
+                               }
+    },
+    {
+        "PCName":  "DMS04698",
+        "IP":  "10.3.168.18",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811224541.243398+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "A0:48:1C:9A:4F:A9",
+                           "C4:12:F5:33:E8:1D"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0469801",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951587",
+        "IP":  "10.3.168.36",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812090655.500000+060",
+        "Model":  "HP EliteDesk 800 G5 SFF",
+        "BIOSVersion":  "R01 Ver. 02.04.02",
+        "MACAddress":  [
+                           "84:A9:3E:8B:F6:F3",
+                           "50:3E:AA:0B:A2:1D"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95158701",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "SAMSUNG MZVLB256HAHQ-000H1",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\HEPZ_0",
+                                   "CurrentTemperature":  30.050000000000011
+                               }
+    },
+    {
+        "PCName":  "D976034",
+        "IP":  "10.3.168.66",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811223337.500000+060",
+        "Model":  "HP Elite SFF 800 G9 Desktop PC",
+        "BIOSVersion":  "U01 Ver. 02.11.00",
+        "MACAddress":  [
+                           "E0:73:E7:BC:30:21",
+                           "14:EB:B6:E0:0F:F7"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD97603402",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "16 GB",
+        "Disks":  {
+                      "DiskModel":  "SK hynix PC801 HFS256GEJ9X101N",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\CPUZ_0",
+                                   "CurrentTemperature":  -269.45
+                               }
+    },
+    {
+        "PCName":  "D951201",
+        "IP":  "10.3.168.41",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812004829.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "40:A8:F0:5E:FD:75",
+                           "10:62:EB:33:98:A6"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95120101",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "TOSHIBA DT01ACA050",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "DMS04679",
+        "IP":  "10.3.168.33",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811233302.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "A0:48:1C:9A:4F:62",
+                           "50:3E:AA:0B:6B:D6"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0467901",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "DMS04403",
+        "IP":  "10.3.168.11",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811224633.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "40:A8:F0:56:81:81",
+                           "18:0F:76:F9:E6:EC"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0440301",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "DMS04688",
+        "IP":  "10.3.168.32",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811224411.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "40:A8:F0:5D:F5:25",
+                           "94:05:B6:5C:B1:5D"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0468801",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D976093",
+        "IP":  "10.3.168.67",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811225346.500000+060",
+        "Model":  "HP Elite SFF 800 G9 Desktop PC",
+        "BIOSVersion":  "U01 Ver. 02.11.00",
+        "MACAddress":  [
+                           "E0:73:E7:BD:68:8D",
+                           "14:EB:B6:E0:3B:3D"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD97609301",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "16 GB",
+        "Disks":  {
+                      "DiskModel":  "SK hynix PC801 HFS256GEJ9X101N",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\CPUZ_0",
+                                   "CurrentTemperature":  -269.15
+                               }
+    },
+    {
+        "PCName":  "D951097",
+        "IP":  "10.3.168.30",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812090820.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.70",
+        "MACAddress":  [
+                           "40:A8:F0:61:72:10",
+                           "94:05:B6:5C:B1:74"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95109701",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "TOSHIBA DT01ACA050",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "DMS04581",
+        "IP":  "10.3.168.49",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240813083853.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "A0:48:1C:9C:89:6D",
+                           "50:3E:AA:0C:59:01"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0458101",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951028",
+        "IP":  "10.3.168.12",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812060902.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "A0:48:1C:94:CE:4D",
+                           "EC:22:80:EB:81:60"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95102801",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951102",
+        "IP":  "10.3.168.29",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811221458.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.70",
+        "MACAddress":  [
+                           "94:05:B6:5D:34:87",
+                           "A0:D3:C1:25:96:F6"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95110201",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D976098",
+        "IP":  "10.3.168.69",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811221539.500000+060",
+        "Model":  "HP EliteDesk 800 G6 Small Form Factor PC",
+        "BIOSVersion":  "S01 Ver. 02.15.01",
+        "MACAddress":  [
+                           "48:9E:BD:A4:C8:D5",
+                           "EC:08:6B:03:D8:F0"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD97609801",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "MTFDHBA256TDV-1AY1AABHA",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\TZ00_0",
+                                   "CurrentTemperature":  27.850000000000023
+                               }
+    },
+    {
+        "PCName":  "D976099",
+        "IP":  "10.3.168.62",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811221545.500000+060",
+        "Model":  "HP Elite SFF 800 G9 Desktop PC",
+        "BIOSVersion":  "U01 Ver. 02.11.00",
+        "MACAddress":  [
+                           "E0:73:E7:BC:30:D9",
+                           "EC:08:6B:04:B8:D4"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD97609901",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "16 GB",
+        "Disks":  {
+                      "DiskModel":  "SK hynix PC801 HFS256GEJ9X101N",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+                                   "SensorName":  "ACPI\\ThermalZone\\CPUZ_0",
+                                   "CurrentTemperature":  -269.45
+                               }
+    },
+    {
+        "PCName":  "DMS04579",
+        "IP":  "10.3.168.20",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812085848.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "A0:48:1C:97:64:13",
+                           "94:05:B6:5D:34:D6"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0457901",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "DMS04693",
+        "IP":  "10.3.33.145",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240814043942.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "40:A8:F0:5E:FD:56",
+                           "10:62:EB:33:98:C6"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0469301",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  [
+                         "@{MonitorDescription=Écran par défaut; MonitorStatus=OK}",
+                         "@{MonitorDescription=Generic PnP Monitor; MonitorStatus=OK}"
+                     ],
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951238",
+        "IP":  "10.3.168.44",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811223506.500000+060",
+        "Model":  "HP EliteDesk 800 G2 SFF",
+        "BIOSVersion":  "N01 Ver. 02.36",
+        "MACAddress":  [
+                           "C8:D3:FF:B2:21:FA",
+                           "50:3E:AA:0B:8C:D5"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95123801",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "WDC WD5000AZLX-60K2TA0",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+
+                               }
+    },
+    {
+        "PCName":  "DMS04626",
+        "IP":  "10.3.168.55",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811221529.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.21",
+        "MACAddress":  [
+                           "A0:48:1C:92:F9:7A",
+                           "10:62:EB:33:98:A4"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LADMS0462601",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951185",
+        "IP":  "10.3.168.13",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812085856.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "A0:48:1C:97:E3:E6",
+                           "10:62:EB:33:98:9B"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95118502",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951101",
+        "IP":  "10.3.168.25",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240813110437.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.70",
+        "MACAddress":  [
+                           "94:05:B6:5D:34:A2",
+                           "40:A8:F0:61:71:66"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95110101",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "TOSHIBA DT01ACA050",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951111",
+        "IP":  "10.3.33.219",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812090001.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  [
+                           "40:A8:F0:67:1C:71",
+                           "50:3E:AA:0B:D6:A1"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95111101",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "WDC WD5000AAKX-753CA1",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951207",
+        "IP":  "10.3.168.23",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812002536.500000+060",
+        "Model":  "HP EliteDesk 800 G2 SFF",
+        "BIOSVersion":  "N01 Ver. 02.36",
+        "MACAddress":  [
+                           "C8:D3:FF:BA:92:91",
+                           "94:05:B6:5D:37:F1"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95120701",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "WDC WD5000AZLX-60K2TA0",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+
+                               }
+    },
+    {
+        "PCName":  "D951105",
+        "IP":  "10.3.168.48",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240812085924.500000+060",
+        "Model":  "HP EliteDesk 800 G1 SFF",
+        "BIOSVersion":  "L01 v02.71",
+        "MACAddress":  "40:A8:F0:61:71:F1",
+        "WorkstationUserName":  "MYCORP\\LAD95110501",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "4 GB",
+        "Disks":  {
+                      "DiskModel":  "ST500DM002-1BD142",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  [
+                         "@{MonitorDescription=Écran par défaut; MonitorStatus=OK}",
+                         "@{MonitorDescription=Generic PnP Monitor; MonitorStatus=OK}"
+                     ],
+        "TemperatureSensors":  [
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ00_0; CurrentTemperature=27.85}",
+                                   "@{SensorName=ACPI\\ThermalZone\\TZ01_0; CurrentTemperature=29.85}"
+                               ]
+    },
+    {
+        "PCName":  "D951172",
+        "IP":  "10.3.168.24",
+        "Status":  "Online",
+        "OS":  "Microsoft Windows 10 Entreprise LTSC",
+        "LastBootUpTime":  "20240811225712.500000+060",
+        "Model":  "HP EliteDesk 800 G2 SFF",
+        "BIOSVersion":  "N01 Ver. 02.36",
+        "MACAddress":  [
+                           "C8:D3:FF:B5:B7:4E",
+                           "18:0F:76:F9:E6:EB"
+                       ],
+        "WorkstationUserName":  "MYCORP\\LAD95117201",
+        "RAMStatus":  "Detected",
+        "TotalRAM":  "8 GB",
+        "Disks":  {
+                      "DiskModel":  "WDC WD5000AZLX-60K2TA0",
+                      "DiskStatus":  "OK"
+                  },
+        "PowerSupply":  "Not Detected",
+        "Monitors":  {
+                         "MonitorDescription":  "Generic PnP Monitor",
+                         "MonitorStatus":  "OK"
+                     },
+        "TemperatureSensors":  {
+
+                               }
+    }
+]
